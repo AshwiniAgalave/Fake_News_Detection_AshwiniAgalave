@@ -2,8 +2,6 @@
 
 A machine learning project that classifies news articles as *real* or *fake* using Word2Vec embeddings and semantic features such as POS tagging and lemmatization. This project applies Logistic Regression, Decision Tree, and Random Forest classifiers and evaluates them using key metrics like Accuracy and F1 Score.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AshwiniAgalave/Fake_News_Detection_AshwiniAgalave/blob/main/Fake_News_Detection.ipynb)
-
 ---
 
 ## 📌 Problem Statement
